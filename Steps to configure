@@ -1,0 +1,27 @@
+Speech to text in Tamil
+Welcome to Speech to text in Tamil project, this is a web application that allows users to convert Tamil speech into Tamil text. This web application is designed solely for our Tamil speaking audience. Hence the language it will appear on will also be Tamil so our target users can use it to their full satisfaction. This application also has the capability to convert Speec into a text using the microphone.
+To download and launch our Speech to text in Tamil project, please follow the instructions below:
+Pre-requisites-
+•	Download VS code:__
+Go to: https://code.visualstudio.com/download
+Click Windows download button
+After the file is downloaded, install it with default settings.
+•	Download Git bash:__
+Go to: https://git-scm.com/downloads
+Click Windows in download section on top of the page and a installer will be downloaded.
+Open the file and install with the default settings by keep clicking next.
+•	Download Node js:__
+Go to: https://nodejs.org/en/download/
+Click Windows installer and an installer will be downloaded.
+Open the file and install with the default settings by keep clicking next.
+Download Speech to text – Tamil source files from gitlab:__
+Running the web application:
+Copy the source gode and paste it
+
+Now its time to launch the application. We will open the application in VS code, by running the command < code . > in Git Bash terminal. Please make sure the git bash terminal is open in the  Speech to text – Tamil folder as shown in step 2.
+
+
+Once VS code is open, from the left side panel expand the folder InTamil and open tamilindex.html  file. Then right click anywhere in that file and click open live server.
+
+
+A browser will open, and you will be able to see the homepage of our lovely Speech to text in Tamil web application.
